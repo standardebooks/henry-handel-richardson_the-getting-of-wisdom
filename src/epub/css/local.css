@@ -125,6 +125,10 @@ footer{
 	text-indent: 0;
 }
 
+#chapter-2 blockquote:first-of-type{
+	text-align: center;
+}
+
 #chapter-5 blockquote{
 	font-style: italic;
 }
