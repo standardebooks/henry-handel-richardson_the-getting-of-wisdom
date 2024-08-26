@@ -98,6 +98,7 @@ section > header [epub|type~="epigraph"]{
 }
 /* End epigraphs in section headers */
 
+/* Letters */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -124,7 +125,9 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+/* End letters */
 
+/* Blockquotes */
 #chapter-2 blockquote:first-of-type{
 	text-align: center;
 }
@@ -132,6 +135,7 @@ footer{
 #chapter-5 blockquote{
 	font-style: italic;
 }
+/* End blockquotes */
 
 /* Poetry */
 [epub|type~="z3998:poem"] p{
