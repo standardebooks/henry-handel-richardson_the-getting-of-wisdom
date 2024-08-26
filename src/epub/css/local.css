@@ -124,3 +124,7 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+#chapter-5 blockquote{
+	font-style: italic;
+}
