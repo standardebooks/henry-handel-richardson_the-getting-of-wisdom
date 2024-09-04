@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henry-handel-richardson/the-getting-of-wisdom</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-09-04T20:39:58Z</dc:date>
+		<meta property="dcterms:modified">2024-09-04T20:39:58Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,20 +45,19 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A girl from rural Victoria is sent to a prestigious boarding school in Melbourne, where she grows in prejudice and deceitfulness, and in favor with few.</dc:description>
+		<dc:description id="description">A girl from rural Victoria is sent to a prestigious boarding school in Melbourne, where she grows in prejudice and deceitfulness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Twelve-year-old Laura and her three younger siblings live in rural Victoria, Australia. Their father has died, and their mother supports the family through sewing and embroidery. With financial support from her godmother, Laura is sent to the prestigious Ladies’ College, a girls’ boarding school in the state’s capital city of Melbourne. There, she is exposed to the prejudice of her wealthier and more worldly peers, and learns to be ashamed of her homespun background, especially of her mother’s “working with her hands.” What kind of wisdom will she gain in her new environment, whose reigning values are appearance and conformity?&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Getting of Wisdom&lt;/i&gt; is a coming-of-age novel that depicts the material and moral constrictions of late nineteenth-century Australian society, including some of its racist attitudes. Its main subjects are class prejudice, lying, and social “pretending.”&lt;/p&gt;
 			&lt;p&gt;“&lt;a href="https://standardebooks.org/ebooks/henry-handel-richardson"&gt;Henry Handel Richardson&lt;/a&gt;” was the pseudonym of author Ethel Florence Lindesay Richardson, who wrote that &lt;i&gt;The Getting of Wisdom&lt;/i&gt; was a “very fair account” of her own years at Melbourne’s Presbyterian Ladies’ College. She claimed that the school refused her entry when she returned to visit in 1912, due to her representation of it in the novel.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt; admired the work as one of the best school stories he had encountered. Australian feminist Germaine Greer and critic Catherine Pratt would later compare it unfavourably with &lt;a href="https://standardebooks.org/ebooks/james-joyce"&gt;James Joyce’s&lt;/a&gt; semi-autobiographical novel &lt;a href="https://standardebooks.org/ebooks/james-joyce/a-portrait-of-the-artist-as-a-young-man"&gt;&lt;i&gt;A Portrait of the Artist as a Young Man&lt;/i&gt;&lt;/a&gt;, which also details its protagonist’s years at a boarding school. While Greer dismisses some of Richardson’s stated notions of Laura as a young artist, Pratt concedes to &lt;i&gt;The Getting of Wisdom&lt;/i&gt; a place in the &lt;i lang="de"&gt;Künstlerroman&lt;/i&gt; genre, noting the influence of Norwegian author Bjørnstjerne Bjørnson’s novel &lt;i&gt;The Fisher Girl&lt;/i&gt; on Richardson.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Getting of Wisdom&lt;/i&gt; also has a debt to Nietzsche, made explicit in some chapter epigraphs and its major theme of truth, lies and “stories.” Despite both this and its elements of fictionalized memoir and social criticism, it is often classified as a children’s book. It remains in print in Australia.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt; admired the work as one of the best school stories he had encountered. Australian feminist Germaine Greer and critic Catherine Pratt would later compare it unfavorably with &lt;a href="https://standardebooks.org/ebooks/james-joyce"&gt;James Joyce’s&lt;/a&gt; semi-autobiographical novel &lt;a href="https://standardebooks.org/ebooks/james-joyce/a-portrait-of-the-artist-as-a-young-man"&gt;&lt;i&gt;A Portrait of the Artist as a Young Man&lt;/i&gt;&lt;/a&gt;, which also details its protagonist’s years at a boarding school. While Greer dismisses some of Richardson’s stated notions of Laura as a young artist, Pratt concedes to &lt;i&gt;The Getting of Wisdom&lt;/i&gt; a place in the &lt;i lang="de"&gt;Künstlerroman&lt;/i&gt; genre, noting the influence of Norwegian author Bjørnstjerne Bjørnson’s novel &lt;i&gt;The Fisher Girl&lt;/i&gt; on Richardson.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Getting of Wisdom&lt;/i&gt; also has a debt to Nietzsche, made explicit in some chapter epigraphs and its major theme of truth, lies, and “stories.” Despite both this and its elements of fictionalized memoir and social criticism, it is often classified as a children’s book.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://gutenberg.net.au/ebooks/e00086.html</dc:source>
 		<dc:source>https://archive.org/details/gettingofwisdom00richrich</dc:source>
-		<meta property="se:production-notes">The Project Gutenberg Australia transcription was used because in the PG US transcription, all caps were used for italics and the content of all letters.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">73928</meta>
+		<meta property="se:reading-ease.flesch">70.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Getting_of_Wisdom</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-handel-richardson_the-getting-of-wisdom</meta>
 		<dc:creator id="author">Henry Handel Richardson</dc:creator>
@@ -82,6 +81,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
