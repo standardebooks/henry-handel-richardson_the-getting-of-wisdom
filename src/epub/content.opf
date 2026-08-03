@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/henry-handel-richardson/the-getting-of-wisdom</dc:identifier>
 		<dc:date>2024-09-04T20:39:58Z</dc:date>
@@ -47,14 +47,14 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Children’s</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A girl from rural Victoria is sent to a prestigious boarding school in Melbourne, where she grows in prejudice and deceitfulness.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A girl from rural Victoria is sent to a prestigious boarding school in Melbourne, where she grows in prejudice and deceitfulness.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Twelve-year-old Laura and her three younger siblings live in rural Victoria, Australia. Their father has died, and their mother supports the family through sewing and embroidery. With financial support from her godmother, Laura is sent to the prestigious Ladies’ College, a girls’ boarding school in the state’s capital city of Melbourne. There, she is exposed to the prejudice of her wealthier and more worldly peers, and learns to be ashamed of her homespun background, especially of her mother’s “working with her hands.” What kind of wisdom will she gain in her new environment, whose reigning values are appearance and conformity?&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Getting of Wisdom&lt;/i&gt; is a coming-of-age novel that depicts the material and moral constrictions of late nineteenth-century Australian society, including some of its racist attitudes. Its main subjects are class prejudice, lying, and social “pretending.”&lt;/p&gt;
 			&lt;p&gt;“&lt;a href="https://standardebooks.org/ebooks/henry-handel-richardson"&gt;Henry Handel Richardson&lt;/a&gt;” was the pseudonym of author Ethel Florence Lindesay Richardson, who wrote that &lt;i&gt;The Getting of Wisdom&lt;/i&gt; was a “very fair account” of her own years at Melbourne’s Presbyterian Ladies’ College. She claimed that the school refused her entry when she returned to visit in 1912, due to her representation of it in the novel.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;H. G. Wells&lt;/a&gt; admired the work as one of the best school stories he had encountered. Australian feminist Germaine Greer and critic Catherine Pratt would later compare it unfavorably with &lt;a href="https://standardebooks.org/ebooks/james-joyce"&gt;James Joyce’s&lt;/a&gt; semi-autobiographical novel &lt;a href="https://standardebooks.org/ebooks/james-joyce/a-portrait-of-the-artist-as-a-young-man"&gt;&lt;i&gt;A Portrait of the Artist as a Young Man&lt;/i&gt;&lt;/a&gt;, which also details its protagonist’s years at a boarding school. While Greer dismisses some of Richardson’s stated notions of Laura as a young artist, Pratt concedes to &lt;i&gt;The Getting of Wisdom&lt;/i&gt; a place in the &lt;i lang="de"&gt;Künstlerroman&lt;/i&gt; genre, noting the influence of Norwegian author Bjørnstjerne Bjørnson’s novel &lt;i&gt;The Fisher Girl&lt;/i&gt; on Richardson.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Getting of Wisdom&lt;/i&gt; also has a debt to Nietzsche, made explicit in some chapter epigraphs and its major theme of truth, lies, and “stories.” Despite both this and its elements of fictionalized memoir and social criticism, it is often classified as a children’s book.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks/e00086.html</dc:source>
 		<dc:source>https://archive.org/details/gettingofwisdom00richrich</dc:source>
