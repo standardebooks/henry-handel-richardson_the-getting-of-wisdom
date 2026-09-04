@@ -31,10 +31,10 @@
 		<dc:title id="title">The Getting of Wisdom</dc:title>
 		<meta property="file-as" refines="#title">Getting of Wisdom, The</meta>
 		<dc:subject id="subject-1">Autobiographical fiction</dc:subject>
-		<dc:subject id="subject-2">Australia -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Young women -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Australia--Fiction</dc:subject>
+		<dc:subject id="subject-3">Young women--Fiction</dc:subject>
 		<dc:subject id="subject-4">Bildungsromans</dc:subject>
-		<dc:subject id="subject-5">Melbourne (Vic.) -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Melbourne (Vic.)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048066</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
